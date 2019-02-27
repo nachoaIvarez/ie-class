@@ -1,0 +1,10 @@
+{
+  "name": "ie-class",
+  "version": "1.0.0",
+  "description": "Adds a \"ie[x]\" class to body if browser is MSIE, [x] being the version.",
+  "main": "index.js",
+  "repository": "https://github.com/nachoaIvarez/ie-class",
+  "author": "@nachoaIvarez",
+  "license": "MIT",
+  "private": false
+}
